@@ -1,5 +1,7 @@
 # ViBike: Road Quality Classification Model
 
+A simple custom Federated Learning Framework in PyTorch. 
+
 
 ## Usage
 
